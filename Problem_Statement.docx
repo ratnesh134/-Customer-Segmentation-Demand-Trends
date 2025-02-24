@@ -1,0 +1,8 @@
+Python Assignment: Customer Segmentation & Demand Patterns
+Objective
+Segment customers based on purchasing behavior and detect demand trends.
+Tasks
+    • Segment customers into high-value, frequent, and occasional buyers using K-Means clustering.
+    • Analyze sales trends to identify peak ordering periods.
+    • Visualize customer segments and order patterns using graphs.
+Dataset: customers.csv, sales_data.csv
